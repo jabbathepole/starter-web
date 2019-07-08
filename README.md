@@ -12,4 +12,6 @@ Example to show different parts of git repo and various commands using a web pro
 
 ## How to contribute
 
+Blahblahblah
+
 ### Copyright
